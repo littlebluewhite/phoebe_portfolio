@@ -23,6 +23,7 @@ html {
   }
 
   body {
+    background: #313335;
     width: 100%;
     height: 100000rem;
   }
@@ -36,7 +37,6 @@ body {
   position: absolute;
   height: 100%;
   width: 100%;
-  background: #313335;
 }
 
 /*# sourceMappingURL=common.css.map */
