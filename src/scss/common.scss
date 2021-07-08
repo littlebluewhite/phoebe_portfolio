@@ -1,0 +1,39 @@
+html{
+  font-size: 16px;
+}
+@media(min-width:2560px){
+  html{
+    font-size: 21.4px;
+  }
+}
+@media(max-width:1920px){
+  html{
+    font-size: 12px;
+  }
+}
+@media(max-width: 1440px) and (min-width: 1080px){
+  html{
+    font-size: 9px;
+  }
+}
+@media(max-width: 1080px){
+  html{
+    font-size: 8px;
+  }
+  body {
+    width: 100%;
+    height: 100000rem;
+  }
+}
+
+body{
+  margin: 0;
+}
+
+#root{
+  color: #FFFFFF;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background: #313335;
+}

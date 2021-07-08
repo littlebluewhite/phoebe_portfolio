@@ -1,0 +1,16 @@
+article{
+  width: 100%;
+  .articleContainer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    .imgContainer{
+      color: #FFFFFF;
+      margin:2rem;
+      img{
+        width: 57rem;
+      }
+      width: 57rem;
+    }
+  }
+}
