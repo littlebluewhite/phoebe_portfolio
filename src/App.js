@@ -1,9 +1,8 @@
 import React, {useContext, useState} from 'react';
 import {HashRouter, Switch, Route, Redirect} from "react-router-dom";
 import {useAdmin} from "./usePackage";
-import image1 from "./image/IMG_9508.JPG"
-import image2 from "./image/20210706.png"
 import image3 from "./image/20210707.png"
+import image2 from "./image/20210706.png"
 
 const authContext = React.createContext({})
 
